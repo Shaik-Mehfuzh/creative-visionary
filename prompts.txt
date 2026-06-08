@@ -1,0 +1,25 @@
+logo
+prompt - 
+    Cyberpunk-Corporate logo for a futuristic AI technology company, sleek neon blue and purple accents, minimalist geometric design, premium branding, dark background, professional vector style, high detail, modern startup identity, 1:1 aspect ratio
+
+
+hero website banner    
+prompt -
+    Futuristic cyberpunk corporate headquarters, AI professionals working with holographic displays, neon blue lighting, premium technology atmosphere, cinematic lighting, ultra realistic, website hero banner, 16:9 aspect ratio
+
+
+social media post
+prompt -
+     Cyberpunk corporate executive using advanced AI dashboard, futuristic city skyline in background, neon reflections, professional business atmosphere, highly detailed, social media marketing image
+
+
+icon set
+prompt -
+     Set of futuristic cyberpunk corporate icons, AI, cloud computing, analytics, security, minimal vector style, neon blue glow, transparent background, consistent design language
+
+
+character consistency
+prompt -
+    Futuristic AI engineer, cyberpunk corporate uniform, neon blue highlights, professional appearance, standing confidently in advanced technology workspace, ultra realistic portrait
+     
+    
